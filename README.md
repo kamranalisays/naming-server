@@ -1,2 +1,2 @@
-# naming-server or Service registry
+# naming-server 
 
